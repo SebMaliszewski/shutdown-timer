@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Shutdown Timer
+GenericName=Auto-shutdown timer
+Comment=Shut down the computer after a chosen time
+Exec=python3 @APP_PATH@
+Icon=shutdown-timer
+Terminal=false
+Categories=Utility;
+Keywords=shutdown;timer;poweroff;sleep;
+StartupNotify=true
